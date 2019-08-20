@@ -1,0 +1,14 @@
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.dll
+C:\New folder\Senthil\ProductManager_Final\ProjectManagerService\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.pdb
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.dll
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.InterfaceLayer.pdb
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.dll
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\bin\Release\ProjectManager.CommonEntities.pdb
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.dll
+C:\Users\Administrator\Desktop\SBA_Final\SBA_FinalAssessment\SourceCode\ProjectManagerService\ProjectManager.InterfaceLayer\obj\Release\ProjectManager.InterfaceLayer.pdb
